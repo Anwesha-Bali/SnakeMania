@@ -1,0 +1,2 @@
+# SnakeMania
+ The Snake Game is a classic and entertaining web-based game where players control a snake that continuously grows in length as it consumes food on the game board. The goal is to guide the snake to eat as much food as possible without colliding with the walls or its own tail. This repository contains the code for a responsive and interactive version of the Snake Game, implemented using HTML, CSS, and JavaScript.
